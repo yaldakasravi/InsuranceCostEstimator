@@ -1,0 +1,11 @@
+age,vehicle_age,vehicle_type,accident_count,weather_risk_index,claim_amount
+34,3.5,Sedan,1,0.3,1200.50
+52,7.0,SUV,2,0.6,3400.75
+28,1.2,Hatchback,0,0.1,500.00
+46,5.0,Truck,1,0.5,2750.20
+39,2.8,Sedan,3,0.7,4200.10
+61,9.0,SUV,0,0.4,1900.00
+33,4.0,Truck,2,0.3,3100.00
+25,0.9,Hatchback,1,0.2,850.25
+48,6.5,Sedan,2,0.5,2950.80
+36,3.0,SUV,1,0.4,1800.60
